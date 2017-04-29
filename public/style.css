@@ -1,0 +1,21 @@
+h1{
+  font-size: 5em;
+
+}
+body{
+  text-align: center;
+  background-image: url("https://image.freepik.com/free-vector/abstract-background-with-a-watercolor-texture_1048-2144.jpg");
+  background-repeat: round;
+  background-attachment: fixed;
+  font-family:  'Baloo', cursive;
+}
+
+.btn{
+  color:white;
+  font-color:white;
+   background-color: #4CAF50;
+   padding: 15px 32px;
+       text-align: center;
+       text-decoration: none;
+       display: inline-block;
+}
